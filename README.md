@@ -6,11 +6,9 @@
 
 <p> <i>Be welcome to my profile, my name is Rafael and this is a page where i will share my progress and projects.</i> </p><br>
 
-- Atualmente sou estudante full stack na Kenzie Academy Brazil, Dev Front End Jr em busca do primeiro emprego e estudante de Engenharia de Software pela Faculdade Metropolitana.<br>
-<i>(I’m currently studying Full Stack Programming on Kenzie Academy Brazil and Software Enginner postdegree in Faculdade Metropolitana)</i><br>
+- Atualmente sou desenvolvedor Full Stack Jr, com quase 3 anos de experiência, usando as principais tecnologias do mercado como React JS e Native, .NET, SQL e Angular.<br>
+<i>(Currently, I am a Junior Full Stack Developer with almost 3 years of experience, using the main technologies in the market such as React JS and Native, .NET, SQL, and Angular.)</i><br>
 
-- Atualmente estudo e procuro desenvolver projetos em React JS, mas tenho boa base de conhecimento em Vanilla JS, CSS e HTML. Também tenho o básico de Typescript e Java.<br>
-<i>(I’m currently learning React JS, but i have the enought knowledge in Vanilla JS, CSS and HTML. I know too the basic of Java)</i><br>
 <hr>
 
 <h3>🖥️ Tecnologia que estudo e tenho conhecimento intermediário:</h3>
